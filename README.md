@@ -12,11 +12,11 @@
 | Where | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
 | What | Meetup introduction, using Stackblitz, building Chuck Norris Joke Generator |
 | Code Lab | [Chuck Norris Joke Generator Lab](https://github.com/ngHighCountry/meetup/blob/master/labs/chuck-norris-jokes-lab.md) |
-| Keynote | [Download the Keyhote](https://github.com/ngHighCountry/meetup/raw/master/presentations/may-2018/may-2018.key) |
+| Keynote | [Download the Keynote](https://github.com/ngHighCountry/meetup/raw/master/presentations/may-2018/may-2018.key) |
 
 ---
 
 ##### External Resources
 
 [Angular Documentation](https://angular.io/docs) | [Ultimate Angular](https://ultimateangular.com/) | [Ngx Tools](https://ngx.tools/#/search) | [Stackblitz](https://stackblitz.com/)  
-And find Us on Twitter [@ngHighCountry](https://twitter.com/ngHighCountry)
+Find us on Twitter [@ngHighCountry](https://twitter.com/ngHighCountry)
