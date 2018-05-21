@@ -1,30 +1,22 @@
+[![Photo by Jürgen Nagel](https://upload.wikimedia.org/wikipedia/commons/a/ae/Blue_Ridge_Mountains_crop.jpg)](https://commons.wikimedia.org/wiki/File:Blue_Ridge_Mountains_crop.jpg)
+
 # High Country Angular
 
-High Country Angular is a group of tech enthusiasts, web designers, software developers and engineers, gathering together on a regular basis to share knowledge, ideas, and lessons learned in working with the Angular framework.
+> High Country Angular is a group of tech enthusiasts, web designers, software developers and engineers, gathering together on a regular basis to share knowledge, ideas, and lessons learned in working with the Angular framework. We are working hard to create a culture of honor where questions big and small from beginners to experts are treated with the same respect.
 
-We are working hard to create a culture of honor where questions big and small from beginners to experts are treated with the same respect.
+### Meet-ups
 
-## Next Meet-up
+| #1 | Chuck Norris |
+| ------ | ------ |
+| When | Monday, May 21st at 5:30pm - 7:30pm |
+| Where | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
+| What | Meetup introduction, using Stackblitz, building Chuck Norris Joke Generator |
+| Code Lab | [Chuck Norris Joke Generator Lab](https://github.com/ngHighCountry/meetup/blob/master/labs/chuck-norris-jokes-lab.md) |
+| Keynote | [Download the Keyhote](https://github.com/ngHighCountry/meetup/raw/master/presentations/may-2018/may-2018.key) |
 
-* When: Monday, May 21st at 5:30pm - 7:30pm
-* Where: Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605
-* What: Meetup introduction, using Stackblitz, building Chuck Norris Joke Generator
+---
 
-## Presentations
+##### External Resources
 
-* [May 2018 (keynote)](https://github.com/ngHighCountry/meetup/blob/master/presentations/may-2018.key)
-
-## Code Labs
-
-* [Chuck Norris Joke Generator](https://github.com/ngHighCountry/meetup/blob/master/labs/chuck-norris-jokes-lab.md)
-
-## External Resources
-
-* [Angular Documentation](https://angular.io/docs)
-* [Ultimate Angular](https://ultimateangular.com/)
-* [Ngx Tools](https://ngx.tools/#/search)
-* [Stackblitz](https://stackblitz.com/)
-
-## Find Us on Twitter
-
-[@ngHighCountry](https://twitter.com/ngHighCountry)
+[Angular Documentation](https://angular.io/docs) | [Ultimate Angular](https://ultimateangular.com/) | [Ngx Tools](https://ngx.tools/#/search) | [Stackblitz](https://stackblitz.com/)  
+And find Us on Twitter [@ngHighCountry](https://twitter.com/ngHighCountry)
