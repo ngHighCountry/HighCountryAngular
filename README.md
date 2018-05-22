@@ -8,7 +8,7 @@
 
 | #1 | Chuck Norris |
 | ------ | ------ |
-| When | Monday, May 21st at 5:30pm - 7:30pm |
+| When | Mon, May 21st at 5:30pm - 7:30pm |
 | Where | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
 | What | Meetup introduction, using Stackblitz, building Chuck Norris Joke Generator |
 | Code Lab | [Chuck Norris Joke Generator Lab](https://github.com/ngHighCountry/meetup/blob/master/labs/chuck-norris-jokes-lab.md) |
