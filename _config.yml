@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+fonts:
+ primary: Concert One
+ secondary: Helvetica

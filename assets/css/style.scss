@@ -4,4 +4,5 @@
 @import "{{ site.theme }}";
 body {
     background-color: pink;
+    font-family: '{{ site.fonts.primary }}',{{ site.fonts.secondary }},Arial,sans-serif;
 }
