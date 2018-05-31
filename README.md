@@ -6,6 +6,16 @@
 
 ### Meet-ups
 
+| #2 | Machine Setup + Git |
+| ------ | ------ |
+| When | Mon, June 18th at 5:30pm - 8:00pm |
+| Where | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
+| What | Development machine setup & Git workshop. Establishing your foundation |
+| Code Lab | Check back soon for the link |
+| Keynote | Check back soon for the link |
+
+---
+
 | #1 | Chuck Norris |
 | ------ | ------ |
 | When | Mon, May 21st at 5:30pm - 7:30pm |
