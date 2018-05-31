@@ -1,4 +1,4 @@
-[![HighCountry Angular logo](https://raw.githubusercontent.com/ngHighCountry/Logo/master/ngHighCountry.svg?sanitize=true)
+![HighCountry Angular logo](https://raw.githubusercontent.com/ngHighCountry/Logo/master/ngHighCountry.svg?sanitize=true)
 
 # High Country Angular
 
