@@ -6,7 +6,7 @@
 
 ## Next Meet-up
 
-| #2 | Machine Setup + Git |
+| #2 | Foundations — machine setup + Git |
 | ------ | ------ |
 | When | Mon, June 18th at 5:30pm - 8:00pm |
 | Where | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
@@ -24,7 +24,7 @@ Here's the tentative schedule for the year to help you plan ahead:
 
 ## Meet-up Archive
 
-| #1 | Chuck Norris |
+| #1 | Let's make a Chuck Norris joke generator |
 | ------ | ------ |
 | When | Mon, May 21st at 5:30pm - 7:30pm |
 | Where | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
