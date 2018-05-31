@@ -1,4 +1,4 @@
-[![Photo by Jürgen Nagel](https://upload.wikimedia.org/wikipedia/commons/a/ae/Blue_Ridge_Mountains_crop.jpg)](https://commons.wikimedia.org/wiki/File:Blue_Ridge_Mountains_crop.jpg)
+[![HighCountry Angular logo](https://raw.githubusercontent.com/ngHighCountry/Logo/master/ngHighCountry.svg?sanitize=true)
 
 # High Country Angular
 
