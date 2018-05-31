@@ -22,7 +22,7 @@ Here's the tentative schedule for the year to help you plan ahead:
 * The third Monday in November - 11/19/18
 * The third Thursday in December - 12/20/18
 
-## Meet-up Archive
+## Meet-up Archives
 
 | #1 | Let's make a Chuck Norris joke generator |
 | ------ | ------ |
@@ -33,8 +33,10 @@ Here's the tentative schedule for the year to help you plan ahead:
 | Keynote | [Download the Keynote](https://github.com/ngHighCountry/meetup/raw/master/presentations/may-2018/may-2018.key) |
 
 ---
+### High Country Angular Resources
 
-##### External Resources
+Find us on Twitter [@ngHighCountry](https://twitter.com/ngHighCountry) | Visit us on [GitHub](https://github.com/ngHighCountry/HighCountryAngular) | This page produced using [ngx-md](https://github.com/dimpu/ngx-md)
 
-[Angular Documentation](https://angular.io/docs) | [Ultimate Angular](https://ultimateangular.com/) | [Ngx Tools](https://ngx.tools/#/search) | [Stackblitz](https://stackblitz.com/)  
-Find us on Twitter [@ngHighCountry](https://twitter.com/ngHighCountry)
+### External Resources
+
+[Angular Documentation](https://angular.io/docs) | [Ultimate Angular](https://ultimateangular.com/) | [Ngx Tools](https://ngx.tools/#/search) | [Stackblitz](https://stackblitz.com/)
