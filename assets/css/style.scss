@@ -1,8 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-body, h1, h2, h3, h4, h5, h6 {
-    font-family: '{{ site.fonts.primary }}',{{ site.fonts.secondary }},Arial,sans-serif;
-    color: #2d2d2d;
-}
