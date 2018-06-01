@@ -1,0 +1,62 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'prismjs/themes/prism.css';
+
+html {
+  display: flex;
+  justify-content: center;
+  font-family: 'Zilla Slab', serif;
+  background-color: #f7f7f7;
+}
+body {
+  max-width: 800px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 2rem;
+}
+a {
+  color: #c8001e;
+  text-decoration: none;
+  font-weight: 600;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p, ul, table {
+  margin-bottom: 2.5em;
+}
+ul {
+  margin-top: -2.5em;
+}
+table {
+  background-color: #ffffff;
+  -moz-box-shadow: 2px 5px 8px #dadada;
+  -webkit-box-shadow: 2px 5px 8px #dadada;
+  box-shadow: 2px 5px 8px #dadada;
+}
+td {
+  border-bottom-color: #d5d5d5;
+  border-bottom-style: solid;
+  border-bottom-width: 0.5px;
+  padding: 10px 10px;
+}
+th {
+  background-color: #c8001e;
+  color: #ffffff;
+}
+blockquote {
+  border-left-color: #d5d5d5 ;
+  border-left-style: solid;
+  border-left-width: 10px;
+  margin-left: 0px;
+  padding-left: 5px;
+}
