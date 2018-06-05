@@ -37,7 +37,7 @@ Here's the tentative schedule for the year to help you plan ahead:
 
 Find us on Twitter [@ngHighCountry](https://twitter.com/ngHighCountry) | Visit us on [GitHub](https://github.com/ngHighCountry/HighCountryAngular) | This page produced using [ngx-md](https://github.com/dimpu/ngx-md) and deploys [like-a-so](https://github.com/angular/angular-cli/wiki/stories-github-pages)
 
-Medium articles from the organizer Wes Grimes:
+### Articles from the organizer Wes Grimes
 * [NgRx Best Practices for Enterprise Angular Applications](https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7)
 
 ### External Resources
