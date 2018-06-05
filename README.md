@@ -13,6 +13,7 @@
 | What | Development machine setup & Git workshop. Establishing your foundation |
 | Code Lab | Check back soon for the link |
 | Keynote | Check back soon for the link |
+| RSVP | [meetup.com](https://www.meetup.com/High-Country-Angular/events/251237822/) |
 
 Here's the tentative schedule for the year to help you plan ahead:
 * The third Monday in July - 7/16/18
