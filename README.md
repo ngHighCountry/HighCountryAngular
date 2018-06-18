@@ -38,7 +38,8 @@ Here's the tentative schedule for the year to help you plan ahead:
 
 ## Members
 
-T-Dog aka Trevor "The Man" Riddle
+- T-Dog aka Trevor "The Man" Riddle
+    - triddle@samaritan.org
 
 ### High Country Angular Resources
 
