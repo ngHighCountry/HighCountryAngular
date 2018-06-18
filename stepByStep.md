@@ -87,7 +87,7 @@ $ git checkout -b addMembers
 
 > In git, files are always in one of 3 stages: Committed, Modified, or Staged
 
-> git status and notice how README.md has been modified
+> "git status" and notice how README.md has been modified
 
 > Add README.md to staging with one of the following commands...
 
@@ -144,14 +144,14 @@ $ git reset --soft HEAD^
 $ git log
 ```
 
-> Now, we can edit README.md for the last time before we make our first pull request...
+> Now, edit README.md for the last time...
 
 ---
 
 ### Members
 
 - Kaleb Huddleston
-- khuddleston@samaritan.org
+  - khuddleston@samaritan.org
 
 ---
 
@@ -164,7 +164,7 @@ $ git add . -v
 > Commit your changes...
 
 ```
-$ git commit -m "meaningful commit message."
+$ git commit -m "meaningful commit message"
 ```
 
 > Finally, let's push our changes to the remote repo and create our first pull request...
@@ -173,7 +173,7 @@ $ git commit -m "meaningful commit message."
 $ git push -u origin addMembers
 ```
 
-> enter your git username/password
+> Enter your git username/password
 
-> If your push was successful, there should be a link in your terminal that you can ctrl+click
+> If your push was successful, there should be a link in your terminal that you can "ctrl+click"
 > to make your first pull request.
