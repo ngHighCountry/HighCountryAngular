@@ -77,9 +77,13 @@ $ git checkout -b addMembers
 
 > Under "Members" add your first name with a bullet in Markdown like the example below...
 
+---
+
 ### Members
 
 - Kaleb
+
+---
 
 > In git, files are always in one of 3 stages: Committed, Modified, or Staged
 
@@ -93,7 +97,7 @@ OR
 $ git add . -v
 ```
 
-#### OH [insert obscenity]!
+#### OH [obscenity]!
 
 > You realized you didn't actually want to add that file to staging yet...
 
@@ -103,6 +107,73 @@ $ git add . -v
 $ git reset HEAD README.md
 ```
 
-- what if I want to undo that last add? (git reset HEAD README.md)
-- git commit -m "Leave a MEANINGFUL commit message"
-- git push -u origin addMembers (let's push our changes to the remote repo and create a pull request)
+> Now let's edit README.md to include your full name...
+
+---
+
+### Members
+
+- Kaleb Huddleston
+
+---
+
+> Add the change to staging...
+
+```
+$ git add . -v
+```
+
+> Now that we're satisfied with our changes, let's make our first commit...
+
+```
+$ git commit -m "Leave a meaningful commit message here"
+```
+
+#### AWWWW SNAPPP!!!
+
+> We really meant to include an email address along with our full name.
+> Let's undo that last commit and edit README.md to include our email address.
+
+```
+$ git reset --soft HEAD^
+```
+
+> Let's take a quick look at the log to see what's happened so far...
+
+```
+$ git log
+```
+
+> Now, we can edit README.md for the last time before we make our first pull request...
+
+---
+
+### Members
+
+- Kaleb Huddleston
+- khuddleston@samaritan.org
+
+---
+
+> Add the change to staging...
+
+```
+$ git add . -v
+```
+
+> Commit your changes...
+
+```
+$ git commit -m "meaningful commit message."
+```
+
+> Finally, let's push our changes to the remote repo and create our first pull request...
+
+```
+$ git push -u origin addMembers
+```
+
+> enter your git username/password
+
+> If your push was successful, there should be a link in your terminal that you can ctrl+click
+> to make your first pull request.
