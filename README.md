@@ -6,18 +6,17 @@
 
 ## Next Meet-up
 
-| #2       | Foundations — machine setup + Git                                                        |
+| #3       | To Be Detremined                                                                         |
 | -------- | ---------------------------------------------------------------------------------------- |
-| When     | Mon, June 18th at 5:30pm - 8:00pm                                                        |
+| When     | The third Monday in July - 7/16/18 - 5:30pm - 8:00pm                                     |
 | Where    | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
-| What     | Development machine setup & Git workshop. Establishing your foundation                   |
+| What     | Not sure yet, but we'll think of something cool                                          |
 | Code Lab | Check back soon for the link                                                             |
 | Keynote  | Check back soon for the link                                                             |
-| RSVP     | [meetup.com](https://www.meetup.com/High-Country-Angular/events/251237822/)              |
+| RSVP     | Coming Soon                                                                              |
 
 Here's the tentative schedule for the year to help you plan ahead:
 
-- The third Monday in July - 7/16/18
 - The third Monday in August - 8/20/18
 - The third Thursday in September - 9/20/18
 - The fourth Monday in October - 10/22/18
@@ -25,6 +24,13 @@ Here's the tentative schedule for the year to help you plan ahead:
 - The third Thursday in December - 12/20/18
 
 ## Meet-up Archives
+
+| #2       | Foundations — machine setup + Git                                                        |
+| -------- | ---------------------------------------------------------------------------------------- |
+| When     | Mon, June 18th at 5:30pm - 8:00pm                                                        |
+| Where    | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
+| What     | Development machine setup & Git workshop. Establishing your foundation                   |
+| RSVP     | Closed                                                                                   |
 
 | #1       | Let's make a Chuck Norris joke generator                                                                              |
 | -------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -38,16 +44,17 @@ Here's the tentative schedule for the year to help you plan ahead:
 
 ## Members
 
-- Michelle Melton
-  - michelle@email.com
+**Michelle Melton** <michelle@email.com>
+[**Spike Bachman**] (https://spike.bachman.in/) @spikebachman
+**John Green** @johndashgreen
 
 ### High Country Angular Resources
 
 Find us on Twitter [@ngHighCountry](https://twitter.com/ngHighCountry) | Visit us on [GitHub](https://github.com/ngHighCountry/HighCountryAngular) | This page produced using [ngx-md](https://github.com/dimpu/ngx-md) and deploys [like-a-so](https://github.com/angular/angular-cli/wiki/stories-github-pages)
 
-### Articles from the organizer Wes Grimes
-
-[NgRx Best Practices for Enterprise Angular Applications](https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7)
+### Articles by our members:
+* By organizer Wes Grimes - [NgRx Best Practices for Enterprise Angular Applications](https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7)
+* By John Green - [Computer Setup for Angular Development] (https://medium.com/@johndashgreen/computer-setup-for-angular-development-1d62dd0caad9)
 
 ### External Resources
 
