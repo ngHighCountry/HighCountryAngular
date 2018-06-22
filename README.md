@@ -43,7 +43,7 @@ Here's the tentative schedule for the year to help you plan ahead:
 
 ## Members
 **Michelle Melton** <michelle@email.com>  
-[**Spike Bachman**] (https://spike.bachman.in/) @spikebachman  
+[**Spike Bachman**](https://spike.bachman.in/) @spikebachman  
 **John Green** @johndashgreen
 
 ### Articles by our Members:
