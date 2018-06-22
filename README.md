@@ -5,7 +5,6 @@
 > High Country Angular is a group of tech enthusiasts, web designers, software developers and engineers, gathering together on a regular basis to share knowledge, ideas, and lessons learned in working with the Angular framework. We are working hard to create a culture of honor where questions big and small from beginners to experts are treated with the same respect.
 
 ## Next Meet-up
-
 | #3       | To Be Detremined                                                                         |
 | -------- | ---------------------------------------------------------------------------------------- |
 | When     | The third Monday in July - 7/16/18 - 5:30pm - 8:00pm                                     |
@@ -24,13 +23,13 @@ Here's the tentative schedule for the year to help you plan ahead:
 - The third Thursday in December - 12/20/18
 
 ## Meet-up Archives
-
-| #2       | Foundations — machine setup + Git                                                        |
-| -------- | ---------------------------------------------------------------------------------------- |
-| When     | Mon, June 18th at 5:30pm - 8:00pm                                                        |
-| Where    | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
-| What     | Development machine setup & Git workshop. Establishing your foundation                   |
-| RSVP     | Closed                                                                                   |
+| #2       | Foundations — machine setup + Git                                                                                                    |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| When     | Mon, June 18th at 5:30pm - 8:00pm                                                                                                    |
+| Where    | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605                                             |
+| What     | Development machine setup & Git workshop. Establishing your foundation                                                               |
+| Code Lab | [Foundations - Machine Setup and Git](https://github.com/ngHighCountry/meetup/blob/master/labs/foundations-machine-setup-and-git.md) |
+| RSVP     | Closed                                                                                                                               |
 
 | #1       | Let's make a Chuck Norris joke generator                                                                              |
 | -------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -43,18 +42,16 @@ Here's the tentative schedule for the year to help you plan ahead:
 ---
 
 ## Members
-
-**Michelle Melton** <michelle@email.com>
-[**Spike Bachman**] (https://spike.bachman.in/) @spikebachman
+**Michelle Melton** <michelle@email.com>  
+[**Spike Bachman**] (https://spike.bachman.in/) @spikebachman  
 **John Green** @johndashgreen
 
-### High Country Angular Resources
-
-Find us on Twitter [@ngHighCountry](https://twitter.com/ngHighCountry) | Visit us on [GitHub](https://github.com/ngHighCountry/HighCountryAngular) | This page produced using [ngx-md](https://github.com/dimpu/ngx-md) and deploys [like-a-so](https://github.com/angular/angular-cli/wiki/stories-github-pages)
-
-### Articles by our members:
+### Articles by our Members:
 * By organizer Wes Grimes - [NgRx Best Practices for Enterprise Angular Applications](https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7)
-* By John Green - [Computer Setup for Angular Development] (https://medium.com/@johndashgreen/computer-setup-for-angular-development-1d62dd0caad9)
+* By John Green - [Computer Setup for Angular Development](https://medium.com/@johndashgreen/computer-setup-for-angular-development-1d62dd0caad9)
+
+### High Country Angular Resources
+Find us on Twitter [@ngHighCountry](https://twitter.com/ngHighCountry) | Visit us on [GitHub](https://github.com/ngHighCountry/HighCountryAngular) | This page produced using [ngx-md](https://github.com/dimpu/ngx-md) and deploys [like-a-so](https://github.com/angular/angular-cli/wiki/stories-github-pages)
 
 ### External Resources
 
