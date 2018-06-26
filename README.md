@@ -45,7 +45,7 @@ Here's the tentative schedule for the year to help you plan ahead:
 [**Spike Bachman**](https://spike.bachman.in/) @spikebachman
 **John Green** @johndashgreen
 
-### Articles by our Members:
+### Articles by our Members
 * By organizer Wes Grimes - [NgRx Best Practices for Enterprise Angular Applications](https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7)
 * By John Green - [Computer Setup for Angular Development](https://medium.com/@johndashgreen/computer-setup-for-angular-development-1d62dd0caad9)
 
