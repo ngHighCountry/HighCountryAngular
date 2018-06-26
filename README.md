@@ -15,7 +15,6 @@
 | RSVP     | Coming Soon                                                                              |
 
 Here's the tentative schedule for the year to help you plan ahead:
-
 - The third Monday in August - 8/20/18
 - The third Thursday in September - 9/20/18
 - The fourth Monday in October - 10/22/18
@@ -41,9 +40,9 @@ Here's the tentative schedule for the year to help you plan ahead:
 
 ---
 
-## Members
-**Michelle Melton** <michelle@email.com>  
-[**Spike Bachman**](https://spike.bachman.in/) @spikebachman  
+### Members
+**Michelle Melton** <michelle@email.com>
+[**Spike Bachman**](https://spike.bachman.in/) @spikebachman
 **John Green** @johndashgreen
 
 ### Articles by our Members:
