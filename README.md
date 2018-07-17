@@ -22,6 +22,15 @@ Here's the tentative schedule for the year to help you plan ahead:
 - The third Thursday in December - 12/20/18
 
 ## Meet-up Archives
+| #3       | Angular Essentials - Components                                                                         |
+| -------- | ---------------------------------------------------------------------------------------- |
+| When     | The third Monday in July - 7/16/18 - 5:30pm - 8:00pm                                     |
+| Where    | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
+| What     | Continuing our theme with setting good development foundations, we will be doing a deep dive into Angular components. Components are the basic building blocks of all Angular applications.                     |
+| Video | [Angular Essentials - Components](https://www.youtube.com/watch?v=UmapXVlUzD0)                                             |
+| Keynote  | [Download PDF of Keynote](https://github.com/ngHighCountry/meetup/blob/master/presentations/july-2018/july-2018.pdf)                                                             |
+| RSVP     | Closed                                                                              |
+
 | #2       | Foundations — machine setup + Git                                                                                                    |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | When     | Mon, June 18th at 5:30pm - 8:00pm                                                                                                    |
