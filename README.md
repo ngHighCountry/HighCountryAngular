@@ -7,7 +7,7 @@
 ## Next Meet-up
 | #3       | To Be Detremined                                                                         |
 | -------- | ---------------------------------------------------------------------------------------- |
-| When     | The third Monday in July - 7/16/18 - 5:30pm - 8:00pm                                     |
+| When     | The third Monday in August - 8/20/18 - 5:30pm - 8:00pm                                     |
 | Where    | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
 | What     | Not sure yet, but we'll think of something cool                                          |
 | Code Lab | Check back soon for the link                                                             |
@@ -15,7 +15,6 @@
 | RSVP     | Coming Soon                                                                              |
 
 Here's the tentative schedule for the year to help you plan ahead:
-- The third Monday in August - 8/20/18
 - The third Thursday in September - 9/20/18
 - The fourth Monday in October - 10/22/18
 - The third Monday in November - 11/19/18
@@ -50,15 +49,14 @@ Here's the tentative schedule for the year to help you plan ahead:
 ---
 
 ### Members
-**Michelle Melton** <michelle@email.com>
-[**Spike Bachman**](https://spike.bachman.in/) @spikebachman
-**John Green** @johndashgreen
+Coming soon
 
 ### Articles by our Members
 * By organizer Wes Grimes - [NgRx Best Practices for Enterprise Angular Applications](https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7)
 * By John Green - [Computer Setup for Angular Development](https://medium.com/@johndashgreen/computer-setup-for-angular-development-1d62dd0caad9)
 
 ### High Country Angular Resources
+Subscribe to our [YouTube channel](https://www.youtube.com/channel/UCHN0UT6xV5HGEvK7l2tTapw/featured) | 
 Find us on Twitter [@ngHighCountry](https://twitter.com/ngHighCountry) | Visit us on [GitHub](https://github.com/ngHighCountry/HighCountryAngular) | This page produced using [ngx-md](https://github.com/dimpu/ngx-md) and deploys [like-a-so](https://github.com/angular/angular-cli/wiki/stories-github-pages)
 
 ### External Resources
