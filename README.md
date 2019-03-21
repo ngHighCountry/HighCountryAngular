@@ -25,7 +25,7 @@
 
 | #4       | Angular Essentials - Components: Parent to Child Component Communication                 |
 | -------- | ---------------------------------------------------------------------------------------- |
-| When     | The third Monday in August - 8/16/18 - 5:30pm - 8:00pm                                   |
+| When     | The third Monday in August - 8/21/18 - 5:30pm - 8:00pm                                   |
 | Where    | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
 | What     | Sharing data between components                                                          |
 | RSVP     | Closed                                                                                   |
