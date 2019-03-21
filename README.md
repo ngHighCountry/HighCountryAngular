@@ -1,30 +1,44 @@
-![HighCountry Angular logo](https://cdn.rawgit.com/ngHighCountry/Logo/master/ngHighCountry-with-name.svg)
+![HighCountry Angular logo](https://cdn.rawgit.com/ngHighCountry/Logo/master/ngHighCountry.svg)
 
 # High Country Angular
 
 > High Country Angular is a group of tech enthusiasts, web designers, software developers and engineers, gathering together on a regular basis to share knowledge, ideas, and lessons learned in working with the Angular framework. We are working hard to create a culture of honor where questions big and small from beginners to experts are treated with the same respect.
 
 ## Next Meet-up
-| #4       | Angular Essentials - Routing                                                                         |
+| #6       | To Be Announced                                                                          |
 | -------- | ---------------------------------------------------------------------------------------- |
-| When     | Thursday, September 20, 2018 at 6:00pm                                     |
-| Where    | Livestreamed at https://www.youtube.com/watch?v=jCiloICINIQ&feature=youtu.be |
-| What     | Continuing our series on grasping the fundamentals of an Angular application, we will be diving into Routing and Guards.|
+| When     | TBD                                                                                      |
+| Where    | TBD                                                                                      |
+| What     | TBD                                                                                      |
 
-Here's the tentative schedule for the year to help you plan ahead:
-- The fourth Monday in October - 10/22/18
-- The third Monday in November - 11/19/18
-- The third Thursday in December - 12/20/18
+
 
 ## Meet-up Archives
-| #3       | Angular Essentials - Components                                                                         |
+
+| #5       | Getting Started with Angular CLI                                                         |
+| -------- | ---------------------------------------------------------------------------------------- |
+| When     | The fourth Monday in October - 10/22/18 - 5:30pm - 8:00pm                                |
+| Where    | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
+| What     | Learning the power of Angular CLI                                                        |
+| Video    | [Getting Started with Angular CLI](https://www.youtube.com/watch?v=YxErMvbXNOg)          |
+| RSVP     | Closed                                                                                   |
+
+| #4       | Angular Essentials - Components: Parent to Child Component Communication                                           |
+| -------- | ------------------------------------------------------------------------------------------------------------------ |
+| When     | The third Monday in August - 8/21/18 - 5:30pm - 8:00pm                                                             |
+| Where    | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605                           |
+| What     | Sharing data between components                                                                                    |
+| Keynote  | [Download PDF of Keynote](https://github.com/ngHighCountry/meetup/blob/master/presentations/aug-2018/aug-2018.pdf) |
+| RSVP     | Closed                                                                                                             |
+
+| #3       | Angular Essentials - Components                                                          |
 | -------- | ---------------------------------------------------------------------------------------- |
 | When     | The third Monday in July - 7/16/18 - 5:30pm - 8:00pm                                     |
 | Where    | Samaritan's Purse Training & Conference Center, 7691 Valley Blvd, Blowing Rock, NC 28605 |
 | What     | Continuing our theme with setting good development foundations, we will be doing a deep dive into Angular components. Components are the basic building blocks of all Angular applications.                     |
-| Video | [Angular Essentials - Components](https://www.youtube.com/watch?v=UmapXVlUzD0)                                             |
-| Keynote  | [Download PDF of Keynote](https://github.com/ngHighCountry/meetup/blob/master/presentations/july-2018/july-2018.pdf)                                                             |
-| RSVP     | Closed                                                                              |
+| Video    | [Angular Essentials - Components](https://www.youtube.com/watch?v=UmapXVlUzD0)                                       |
+| Keynote  | [Download PDF of Keynote](https://github.com/ngHighCountry/meetup/blob/master/presentations/july-2018/july-2018.pdf) |
+| RSVP     | Closed                                                                                                               |
 
 | #2       | Foundations — machine setup + Git                                                                                                    |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -48,8 +62,15 @@ Here's the tentative schedule for the year to help you plan ahead:
 Coming soon
 
 ### Articles by our Members
-* By organizer Wes Grimes - [NgRx Best Practices for Enterprise Angular Applications](https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7)
-* By John Green - [Computer Setup for Angular Development](https://medium.com/@johndashgreen/computer-setup-for-angular-development-1d62dd0caad9)
+* By organizer Wes Grimes
+    * [NgRx Best Practices for Enterprise Angular Applications](https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7)
+    * [Building an AOT Friendly Dynamic Content Outlet in Angular](https://itnext.io/building-an-aot-friendly-dynamic-content-outlet-in-angular-c2790195cb94)
+    * [Automatically Remove All Unused Imports in a TypeScript Project](https://itnext.io/automatically-remove-all-unused-typescript-imports-in-a-project-afd4eb0e84b7)
+    * [Angular courses for you and your team, a review of Ultimate Courses](https://itnext.io/angular-courses-for-you-and-your-team-a-review-of-ultimate-courses-96b5c336d724)
+    * [Angular Routing — Best Practices for Enterprise Applications](https://itnext.io/angular-routing-best-practices-for-enterprise-applications-da539e4a6d42)
+* By John Green
+    * [Computer Setup for Angular Development](https://medium.com/@johndashgreen/computer-setup-for-angular-development-1d62dd0caad9)
+    * [Getting Started with Angular CLI](https://medium.com/@johndashgreen/getting-started-with-angular-cli-d8b870c78775)
 
 ### High Country Angular Resources
 Subscribe to our [YouTube channel](https://www.youtube.com/channel/UCHN0UT6xV5HGEvK7l2tTapw/featured) | 
